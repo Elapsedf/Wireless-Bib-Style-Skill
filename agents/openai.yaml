@@ -1,0 +1,4 @@
+interface:
+  display_name: "IEEE Bib Style Audit"
+  short_description: "Audit BibTeX entries against wireless IEEE bibliography style. / 审核 BibTeX 是否符合无线通信 IEEE 参考文献格式。"
+  default_prompt: "Audit these .bib files against the wireless IEEE bibliography style in template.bib and report nonconforming entries without editing."
